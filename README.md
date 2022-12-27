@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthickjaisankar
 - 👀 I love technology and mathematics
-- 🌱 I’m currently working as machine learning engineer and I work predominantly on projects involving artificial intelligence and data science.
+- 🌱 I’m currently working as a data scientist and I work predominantly on projects involving artificial intelligence and data science.
 - 💞️ I’m looking to collaborate on Linekdin, https://www.linkedin.com/in/karthick-jaisankar-62b659136/?trk=join-al
 - 📫 Reach me at karthickjaisankar03@gmail.com
 <!---
